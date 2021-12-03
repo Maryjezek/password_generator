@@ -1,5 +1,5 @@
 // Assignment code here
-//MB code
+//MB code begin
 
 function generatePassword() {
  
@@ -15,7 +15,8 @@ function generatePassword() {
       var lowerCase = window.confirm('Click Ok if you want lowercase characters?');
     
       var upperCase = window.confirm('Click OK if you want uppercase characters?');
-        //16 possible combinations or permuations of possibilites to select
+        
+      //16 possible combinations or permuations of possibilites to select
         //1
       if (specialChar && numeric && lowerCase && upperCase)
       {
@@ -159,7 +160,7 @@ function generatePassword() {
     //16
     if (!specialChar && !numeric && !lowerCase && !upperCase)
       {
-        var prompt = window.prompt('Must select at least one character type?');
+        var prompt = window.confirm('Must select at least one character type?');
         //after this prompt restart the loop
         generatePassword();
       }
