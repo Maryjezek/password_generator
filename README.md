@@ -4,7 +4,7 @@
 ## This application can be used to generate a random password based on the criteria that you have selected.
 
 
-##Acceptance Criteria 
+## Acceptance Criteria 
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
