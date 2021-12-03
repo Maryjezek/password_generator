@@ -25,3 +25,4 @@ THEN the password is either displayed in an alert or written to the page
 Link to live application:
 https://maryjezek.github.io/password_generator/
 
+![image](https://user-images.githubusercontent.com/37507020/144533073-38c3ff5e-6e84-492e-a14c-539db17344d3.png)
