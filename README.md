@@ -1,7 +1,7 @@
 # Password Generator Starter Code
 
-
-## This application can be used to generate a random password based on the criteria that you have selected.
+## Description
+### This application can be used to generate a random password based on the criteria that you select.
 
 
 ## Acceptance Criteria 
