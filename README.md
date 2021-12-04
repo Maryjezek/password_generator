@@ -1,7 +1,7 @@
 # Password Generator Starter Code
 
-
-## This application can be used to generate a random password based on the criteria that you have selected.
+## Description
+### This application can be used to generate a random password based on the criteria that you select.
 
 
 ## Acceptance Criteria 
@@ -25,3 +25,4 @@ THEN the password is either displayed in an alert or written to the page
 Link to live application:
 https://maryjezek.github.io/password_generator/
 
+![image](https://user-images.githubusercontent.com/37507020/144533073-38c3ff5e-6e84-492e-a14c-539db17344d3.png)
